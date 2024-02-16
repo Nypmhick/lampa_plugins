@@ -190,7 +190,7 @@ setTimeout(function() {
 				}
 				if(Lampa.Storage.field('CustomScreenSaver') == true) {
 					Lampa.Storage.set ('screensaver_type', 'aerial');
-					Lampa.Storage.set ('screensaver_aerial_items', '[{"id":"","accessibilityLabel":"","src":{"VP92160p":"https://youtu.be/51fiZXShRSw"},"name":"","pointsOfInterest":{"0":""},"type":"","timeOfDay":"false"}]');
+					Lampa.Storage.set ('screensaver_aerial_items', '[{"id":"","accessibilityLabel":"","src":{"VP91080p":"https://youtu.be/51fiZXShRSw"},"name":"","pointsOfInterest":{"0":""},"type":"","timeOfDay":"false"}]');
 				/*
 					setInterval(function() {
 						document.querySelector(".screensaver__video").removeAttr("muted");
