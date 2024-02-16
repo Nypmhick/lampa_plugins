@@ -190,7 +190,7 @@ setTimeout(function() {
 				}
 				if(Lampa.Storage.field('CustomScreenSaver') == true) {
 					Lampa.Storage.set ('screensaver_type', 'aerial');
-					Lampa.Storage.set ('screensaver_aerial_items', '[{"id":"","accessibilityLabel":"","src":{"H2641080p":"https://nypmhick.github.io/lampa_plugins/screensaver/Fire.mp4"},"name":"","pointsOfInterest":{"0":""},"type":"","timeOfDay":"false"}]');
+					Lampa.Storage.set ('screensaver_aerial_items', '[{"id":"","accessibilityLabel":"","src":{"H2652160p":"https://nextcloud.kubai.su/index.php/s/Dqr6kr8jPGieofj/download/Fireplace.hevc"},"name":"","pointsOfInterest":{"0":""},"type":"","timeOfDay":"false"}]');
 				/*
 					setInterval(function() {
 						document.querySelector(".screensaver__video").removeAttr("muted");
